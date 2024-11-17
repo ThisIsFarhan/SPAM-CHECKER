@@ -1,6 +1,9 @@
 # Spam Detection using Naive Bayes and Count Vectorizer 📧
 
-Welcome to my **Spam Detection** project, where I've implemented a machine learning model to classify messages as spam or not spam. The model uses the **Naive Bayes classifier** along with the **Count Vectorizer** for text feature extraction. This project demonstrates the power of natural language processing (NLP) in automating text classification tasks. Spam_checker.ipynb contains the notebook for the main processing and training of the model.
+Welcome to my **Spam Detection** project, where I've implemented a machine learning model to classify messages as spam or not spam. The model uses the **Naive Bayes classifier** along with the **Count Vectorizer** for text feature extraction. This project demonstrates the power of natural language processing (NLP) in automating text classification tasks.
+
+Spam_checker.ipynb contains the notebook for the main processing and training of the model.
+
 app.py contains the streamlit integration.
 ---
 
