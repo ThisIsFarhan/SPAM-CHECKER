@@ -5,6 +5,7 @@ Welcome to my **Spam Detection** project, where I've implemented a machine learn
 Spam_checker.ipynb contains the notebook for the main processing and training of the model.
 
 app.py contains the streamlit integration.
+
 ---
 
 ## 🎯 Project Goals
